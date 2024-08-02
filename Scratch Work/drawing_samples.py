@@ -5,7 +5,6 @@ language and the Arcade library.
 
 # Import the "arcade" library
 import arcade
-from arcade import csscolor, open_window, set_background_color
 import arcade.csscolor
 
 # Open up a window.

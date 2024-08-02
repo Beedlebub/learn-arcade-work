@@ -7,6 +7,7 @@ Lab 02: Draw a Picture
 
 # Import the "arcade" library
 import arcade
+import arcade.csscolor
 
 # Open up a window.
 # From the "arcade" library, use a function called "open_window"
